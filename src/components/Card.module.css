@@ -1,0 +1,20 @@
+.card {
+    background-color: #fff;
+    border-radius: 1em;
+  }
+  
+  .item {
+    margin: 1em;
+  }
+  
+  .title {
+    font-weight: 600;
+  }
+  
+  .seeMore{
+    color: #000;
+  }
+  
+  .tips {
+    margin-right: .5em;
+  }

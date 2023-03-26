@@ -1,0 +1,8 @@
+.msg {
+    text-align: center;
+    margin: .5em;
+  }
+  
+  .err {
+    color: red;
+  }
